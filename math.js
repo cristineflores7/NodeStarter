@@ -7,3 +7,4 @@ if (amount< 10) {
 }
 
 console.log('it is my first node app')
+console.log(__filename)
